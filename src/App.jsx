@@ -57,7 +57,7 @@ let myStyle = {
 
 function App() {
   const [car, setCar] = useState({
-    brand: "Ford",
+    brand: "Benz",
     model: "Mustang",
     year: "1964",
     color: "red",
